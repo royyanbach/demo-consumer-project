@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/royyanbach/demo-consumer-project/issues"
   },
-  "homepage": "https://github.com/royyanbach/demo-consumer-project#readme"
+  "homepage": "https://github.com/royyanbach/demo-consumer-project#readme",
+  "dependencies": {
+    "@royyanbach/demo-shared-libraries": "github:royyanbach/demo-shared-libraries#semver:1.0.0"
+  }
 }
