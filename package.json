@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/royyanbach/demo-consumer-project#readme",
   "dependencies": {
-    "@royyanbach/demo-shared-libraries": "github:royyanbach/demo-shared-libraries#semver:1.0.0"
-  }
+    "@royyanbach/demo-shared-libraries": "github:royyanbach/demo-shared-libraries#semver:^1.0.x"
+  },
+  "type": "module"
 }
